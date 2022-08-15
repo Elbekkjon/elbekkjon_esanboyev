@@ -97,6 +97,7 @@ p {
 	height: 100%;
 	max-width: 1300px;
 	padding: 0 10px;
+	background-color: rgba(31, 30, 30, 0.678);
 }
 #header .nav-list ul {
 	list-style: none;
